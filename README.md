@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Omar Alajaji and I have a great interest in Cybersecurity and Data Analysis.</h2>
+<h2 align="left">Hi 👋! My name is Omar Alajaji and I'm an Information System Student at King Saud University.</h2>
 
 ###
 
