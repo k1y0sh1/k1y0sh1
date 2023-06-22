@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k1y0sh1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![Snake animation](https://github.com/k1y0sh1/k1y0sh1/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
